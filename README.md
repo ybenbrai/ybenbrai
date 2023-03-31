@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/ybenbrai?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybenbrai&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybenbrai&theme=light"/>
 </a>
 <a href="https://github.com/ybenbrai?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ybenbrai&line_height=40&show_icons=true&theme=dark">
